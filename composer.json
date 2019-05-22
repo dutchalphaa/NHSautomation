@@ -1,0 +1,17 @@
+{
+  "name": "bmware/nhs",
+  "description": "API that downloads and reads the csv file and make it into an api",
+  "type": "API",
+  "authors": [
+    {
+      "name": "boyd",
+      "email": "boydvree@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "core\\": "core/"
+    }
+  }
+}
